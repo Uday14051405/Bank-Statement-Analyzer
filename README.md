@@ -38,7 +38,7 @@ This project was developed as part of my professional experience, where I contri
 ---
 
 ## 📦 Installation Guide (For Demonstration)
-> Note: This repository is for **portfolio/demo purposes** only. Some sensitive business logic and private data have been removed.
+> Note: This repository is for **portfolio purposes** only. Some sensitive business logic and private data have been removed.
 
 ### Steps:
 ```bash
