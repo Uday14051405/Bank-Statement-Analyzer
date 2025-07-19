@@ -29,7 +29,7 @@ This project was developed as part of my professional experience, where I contri
 ---
 
 ## 🛠 Tech Stack
-- **Backend Framework:** Laravel 10
+- **Backend Framework:** Laravel 8
 - **Database:** MySQL
 - **API Standard:** RESTful API
 - **Authentication:** Laravel Sanctum
