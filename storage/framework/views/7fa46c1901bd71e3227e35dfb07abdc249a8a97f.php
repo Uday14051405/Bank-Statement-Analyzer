@@ -1,0 +1,1 @@
+Hello<?php /**PATH C:\xampp81New\htdocs\pws_bsa_25feb\bsa\resources\views\admin\auth\resources\views\mail.blade.php ENDPATH**/ ?>

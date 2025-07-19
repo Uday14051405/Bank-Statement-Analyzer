@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+/* @font-face {
+  font-family: "SFProRegular";
+  src: url("./../public/fonts/SFProDisplay-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", Sans-serif;
+  text-decoration: none !important;
+}
+a,
+button {
+  cursor: pointer !important;
+}
+
+body {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+
